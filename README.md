@@ -1,1 +1,1 @@
-# Netflix_case_study_python
+This project shows the exploratory analysis of Netflix data using Python libraries to help them bring out valuable information, identifying popularity of shows, movies and actors in different countries 
